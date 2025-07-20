@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-	printf("liuziqi-dev\n");
+	printf("liuziqi-dev-master\n");
 	return 0;
 }
