@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-	printf("liuziqi\n");
+	printf("liuziqi- otherFeature2\n");
 	return 0;
 }
